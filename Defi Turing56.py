@@ -6,3 +6,4 @@ for i in range(1,250):
     for j in range(1,250):
         A.append(sum(liste(i**j)))
 print(max(A))
+# 2797
