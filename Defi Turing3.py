@@ -7,3 +7,4 @@ def decomposition(entier):
     return Liste
     
 print(decomposition(20130101)[-1])
+# 1059479
