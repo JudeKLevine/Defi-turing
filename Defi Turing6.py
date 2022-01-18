@@ -5,3 +5,4 @@ def Liste(entier):
     return List
     
 print(sum(Liste(factorial(2013))))
+# 24021
