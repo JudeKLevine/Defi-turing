@@ -4,3 +4,4 @@ def Mirroir(entier):
     
 A = [i for i in range(10000000) if Mirroir(i) == 4 * i]
 print(max(A))
+# 2199978
